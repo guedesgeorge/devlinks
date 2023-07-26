@@ -1,0 +1,27 @@
+body * {
+ font-family: 'Rumble Monster', sans-serif;
+color: #ffffff;                 
+}
+
+body {
+  background-color: #212121;
+}
+
+#container {
+ width: 360px;
+ border: 1px solid red;
+ margin: auto;
+}
+
+#profile {
+  text-align: center;
+}
+
+#profile img {
+  width: 112px;
+}
+
+#profile p {
+font-weight: 500 ;
+line-height: 24px;
+}
